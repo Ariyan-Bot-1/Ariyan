@@ -139,7 +139,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("️এন থেকে সর দুরে গিয়া মর😒", threadID);
    };
 
-   if ((event.body.toLowerCase() == "moriom") || (event.body.toLowerCase() == "ex")) {
+   if ((event.body.toLowerCase() == "Sumaiya") || (event.body.toLowerCase() == "ex")) {
      return api.sendMessage("️Kiss Randi Ka Name Le Ke Mood Khrab Kr Diya.🙄 Dubara Naam Mat Lena Iska", threadID);
    };
 
