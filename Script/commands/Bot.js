@@ -71,7 +71,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
   if ((event.body.toLowerCase() == "admin") || (event.body.toLowerCase() == "boter admin")) {
-     return api.sendMessage("He is Rahatッ❤️ তাকে সবাই রাহাদ নামে  চিনে🤙", threadID);
+     return api.sendMessage("He is Ariyanッ❤️ তাকে সবাই Ariyan নামে  চিনে🤙", threadID);
    };
 
    if ((event.body.toLowerCase() == "ai") || (event.body.toLowerCase() == "Ai")) {
